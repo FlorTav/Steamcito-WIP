@@ -1,0 +1,78 @@
+A Way Out 29.99 25 20 20180323 Acción		
+Baldur's Gate 3 59.99 33 30 20230803 RPG		
+Baldur's Gate II 19.99 4 6 20131115 RPG		
+Batman: Arkham Asylum 19.99 51 57 20120326 Acción		
+Batman: Arkham City 19.99 51 57 20120907 Acción		
+Batman: Arkham Knight 19.99 51 57 20150623 Acción		
+Batman: Arkham Origins 19.99 73 57 20131025 Acción		
+Bayonetta 19.99 46 40 20170411 Acción		
+BioShock 2 3.99 2 1 20160915 FPS		
+BioShock 4.99 1 1 20160915 FPS		
+BioShock Infinite 9.99 29 1 20130325 FPS		
+Blasphemous 2 29.99 64 48 20230824 Metroidvania		
+Blasphemous 9.99 64 48 20190910 Metroidvania		
+Counter-Strike 0.00 70 53 20120821 FPS		
+Crash Bandicoot N. Sane Trilogy 39.99 72 3 20180629 Plataformas		
+Darkest Dungeon 24.99 48 38 20160119 Roguelike		
+Darkest Dungeon II 39.99 48 38 20230508 Roguelike		
+Dead by Daylight 19.99 5 7 20160614 Terror		
+Dead Cells 24.99 36 33 20180806 Metroidvania		
+DEAD OR ALIVE 6 59.99 32 29 20190301 Lucha		
+Deep Rock Galactic 9.99 23 14 20200513 FPS		
+DEVOUR 4.99 57 43 20210128 Terror		
+Disco Elysium 39.99 74 59 20191015 RPG		
+Dishonored 2 29.99 3 8 20161111 Sigilo		
+Dishonored 9.99 3 8 20121009 Sigilo		
+Divinity: Original Sin 2 44.99 33 30 20170914 RPG		
+Don't Starve Together 14.99 31 28 20160421 Supervivencia		
+DOOM 19.99 26 8 20160313 FPS		
+DOOM Eternal 39.99 26 8 20200320 FPS		
+Dragon Age II 29.99 7 20 20110308 RPG		
+Dragon Age: Origins 29.99 7 20 20101026 RPG		
+Dragon's Dogma: Dark Arisen 29.99 11 11 20160115 RPG		
+Dying Light 29.99 63 49 20150126 Zombies		
+FINAL FANTASY VII REMAKE INTERGRADE 69.99 56 41 20220617 RPG		
+FOREWARNED 12.99 18 19 20210910 Terror		
+God of War 49.99 53 37 20220114 Acción		
+Hades 24.99 59 45 20200917 Roguelike		
+Hellblade: Senua's Sacrifice 29.99 39 34 20170808 Aventura		
+Hollow Knight 14.99 61 46 20170224 Metroidvania		
+House Flipper 24.99 20 23 20180517 Simulación		
+Inscryption 19.99 17 18 20211019 Cartas		
+It Takes Two 39.99 25 20 20210326 Aventura		
+Killing Floor 19.99 68 51 20090514 Zombies		
+LARA CROFT AND THE TEMPLE OF OSIRIS 19.99 15 16 20141208 Puzzles		
+Left 4 Dead 2 9.99 70 53 20091117 Zombies		
+Little Nightmares 19.99 60 5 20170427 Terror		
+Monster Hunter World: Iceborne 39.99 10 10 20200109 Aventura		
+Monster Hunter: World 29.99 10 10 20180809 Aventura		
+Mortal Kombat 1 69.99 38 56 20230919 Lucha		
+Mortal Kombat 11 49.99 38 56 20190423 Lucha		
+Mortal Kombat X 19.99 38 56 20150414 Lucha		
+Muse Dash 2.99 44 25 20190620 Ritmo		
+NieR:Automata 39.99 56 41 20170317 Acción		
+Papers, Please 9.99 34 2 20130808 Simulación		
+Pathfinder: Wrath of the Righteous 39.99 42 32 20210902 RPG		
+PAYDAY 2 9.99 41 42 20130813 FPS		
+Phasmophobia 13.99 30 27 20200918 Terror		
+Pillars of Eternity 29.99 40 58 20150326 RPG		
+Pillars of Eternity II: Deadfire 29.99 40 55 20180308 RPG		
+Portal 2 9.99 70 53 20110419 Plataformas		
+Portal 9.99 70 53 20071010 Plataformas		
+Red Dead Redemption 2 59.99 50 39 20191205 Aventura		
+Rise of the Tomb Raider 29.99 15 16 20160209 Aventura		
+Sea of Thieves 39.99 47 58 20200603 Aventura		
+Shadow of the Tomb Raider 29.99 19 16 20180914 Aventura		
+Slay the Spire 24.99 35 31 20190123 Cartas		
+Spyro Reignited Trilogy 39.99 67 3 20190903 Plataformas		
+Stardew Valley 14.99 13 15 20160224 Simulación		
+The Elder Scrolls V: Skyrim Special Edition 39.99 6 8 20161027 RPG		
+The Forest 19.99 21 21 20180330 Supervivencia		
+The Last of Us Parte I 59.99 37 37 20230328 Zombies		
+The Witcher 3: Wild Hunt 39.99 12 12 20150518 RPG		
+Tomb Raider 14.99 15 16 20130305 Aventura		
+Tomb Raider I (1996) 6.99 14 16 20121128 Plataformas		
+Tomb Raider: Anniversary 8.99 15 16 20070605 Plataformas		
+Warhammer: Vermintide 2 29.99 22 22 20180308 Acción		
+We Were Here Too 9.99 66 50 20180202 Cooperativo		
+Yakuza: Like a Dragon 59.99 52 40 20201110 RPG		

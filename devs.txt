@@ -1,0 +1,74 @@
+1 2K Boston
+2 2K Marin
+3 Arkane Studios
+4 Beamdog
+5 Behaviour Interactive Inc.
+6 Bethesda Game Studios
+7 BioWare
+8 Bit Loom Games
+9 Blizzard Entertainment, Inc.
+10 CAPCOM Co., Ltd.
+11 Capcom
+12 CD PROJEKT RED
+13 ConcernedApe
+14 Core Design
+15 Crystal Dynamics
+16 Crytek
+17 Daniel Mullins Games
+18 Dreambyte Games
+19 Eidos-Montréal
+20 Empyrean
+21 Endnight Games Ltd
+22 Fatshark
+23 Ghost Ship Games
+24 Grinding Gear Games
+25 Hazelight
+26 id Software
+27 id Software
+28 Insomniac Games
+29 Irrational Games
+30 Kinetic Games
+31 Klei Entertainment
+32 KOEI TECMO GAMES CO., LTD.
+33 Larian Studios
+34 Lucas Pope
+35 Mega Crit Games
+36 Motion Twin
+37 Naughty Dog LLC
+38 NetherRealm Studios
+39 Ninja Theory
+40 Obsidian Entertainment
+41 OVERKILL - a Starbreeze Studio.
+42 Owlcat Games
+43 Pearl Abyss
+44 peropero
+45 Pillow Castle
+46 PlatinumGames
+47 Rare Ltd
+48 Red Hook Studios
+49 Respawn Entertainment
+50 Rockstar Games
+51 Rocksteady Studios
+52 Ryu Ga Gotoku Studio
+53 Santa Monica Studio
+54 SEGA
+55 Smilegate RPG
+56 Square Enix
+57 Straight Back Games
+58 Studio Wildcard
+59 Supergiant Games
+60 Tarsier Studios
+61 Team Cherry
+62 Team Salvato
+63 Techland
+64 The Game Kitchen
+65 Titan Forge Games
+66 Total Mayhem Games
+67 Toys for Bob
+68 Tripwire Interactive
+69 Ubisoft Montreal
+70 Valve
+71 vanripper
+72 Vicarious Visions
+73 WB Games Montreal
+74 ZA/UM

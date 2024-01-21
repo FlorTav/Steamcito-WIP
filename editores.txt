@@ -1,0 +1,59 @@
+1 2K
+2 3909
+3 Activision
+4 Amazon Games
+5 BANDAI NAMCO Entertainment
+6 Beamdog
+7 Behaviour Interactive Inc.
+8 Bethesda Softworks
+9 Blizzard Entertainment, Inc.
+10 CAPCOM Co., Ltd.
+11 Capcom
+12 CD PROJEKT RED
+13 Coatsink
+14 Coffee Stain Publishing
+15 ConcernedApe
+16 Crystal Dynamics
+17 Crytek
+18 Devolver Digital
+19 Dreambyte Games
+20 Electronic Arts
+21 Endnight Games Ltd
+22 Fatshark
+23 Frozen District
+24 Grinding Gear Games
+25 hasuhasu
+26 Hi-Rez Studios
+27 Kinetic Games
+28 Klei Entertainment
+29 KOEI TECMO GAMES CO., LTD.
+30 Larian Studios
+31 Mega Crit Games
+32 META Publishing
+33 Motion Twin
+34 Ninja Theory
+35 Pearl Abyss
+36 Pillow Castle
+37 PlayStation PC LLC
+38 Red Hook Studios
+39 Rockstar Games
+40 SEGA
+41 Square Enix
+42 Starbreeze Publishing AB
+43 Straight Back Games
+44 Studio Wildcard
+45 Supergiant Games
+46 Team Cherry
+47 Team Salvato
+48 Team17
+49 Techland
+50 Total Mayhem Games
+51 Tripwire Interactive
+52 Ubisoft
+53 Valve
+54 vanripper
+55 Versus Evil
+56 Warner Bros. Games
+57 Warner Bros. Interactive Entertainment
+58 Xbox Game Studios
+59 ZA/UM
